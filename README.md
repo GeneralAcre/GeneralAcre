@@ -1,24 +1,17 @@
-# 💫 About Me:
-I'm a passionate Frontend Developer.
+<h1 align="center">Hi 👋, I'm Sanpaphat</h1> <h3 align="center">A passionate Frontend Developer</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=CCCCCC&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+%7C+TailwindCSS;Building+cool+things+on+the+web" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=GeneralAcre&style=for-the-badge&color=808080" alt="profile views" /> </p> <p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
+🏆 Achievements
+<table> <tr> <td>🥈</td> <td> <b>2nd Prize Winner</b> — Superteam TH Hackathon<br/> <sub>Placed top 2 building on Solana within the hackathon's time limit, competing against teams across Thailand's Superteam ecosystem.</sub> </td> </tr> </table> <p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
+🌐 Connect with me
+<p align="left"> <a href="https://www.acrepedia.xyz/" target="_blank"><img src="https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sanpaphat-porntongprasert/" target="_blank"><img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/Acrepedia" target="_blank"><img src="https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=twitter&logoColor=white" /></a> </p> <p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
+💻 Tech Stack
+<p align="left"> <img src="https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Next-000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=Canva&logoColor=white" /> <img src="https://img.shields.io/badge/blender-000?style=for-the-badge&logo=blender&logoColor=white" /> <img src="https://img.shields.io/badge/adobe%20photoshop-000?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" /> <img src="https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Rhinoceros-000?style=for-the-badge&logo=rhinoceros&logoColor=white" /> <img src="https://img.shields.io/badge/adobe%20illustrator-000?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white" /> </p> <p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
+🐍 Contribution Snake
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeneralAcre/GeneralAcre/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeneralAcre/GeneralAcre/output/github-contribution-grid-snake.svg" /> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GeneralAcre/GeneralAcre/output/github-contribution-grid-snake.svg" /> </picture> </p>
 
+⚠️ This animates once the workflow (see snake.yml below) runs on your GeneralAcre/GeneralAcre profile repo. It's blank until then.
 
-## 🌐 Socials:
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.acrepedia.xyz/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanpaphat-porntongprasert/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Acrepedia)
-
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010?style=for-the-badge&logo=rhinoceros&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GeneralAcre&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GeneralAcre&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeneralAcre&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=GeneralAcre&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📊 GitHub Stats
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeneralAcre&hide_border=false&include_all_commits=true&count_private=false&title_color=fff&text_color=ccc&icon_color=aaa&bg_color=0d1117" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneralAcre&hide_border=false&include_all_commits=true&count_private=false&layout=compact&title_color=fff&text_color=ccc&bg_color=0d1117" /> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=GeneralAcre&hide_border=false&background=0D1117&ring=CCCCCC&fire=CCCCCC&currStreakLabel=CCCCCC" /> </p> <p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
+✍️ Random Dev Quote
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p>
+<p align="center"> <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=GeneralAcre&icon=0&color=0" /></a> </p>
